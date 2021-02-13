@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, here is Mirone!
+
+Do you known me? I'm a software engineer.
+
+- 🔭 I’m currently working on [Homura RSS Reader](https://github.com/Saul-Mirone/homura)
+- 🌱 I’m currently learning [ReScript](https://rescript-lang.org/) and [RxJs](https://rxjs.dev/)
+- 💬 Ask me about [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [TypeScript](https://www.typescriptlang.org/)
+- 📫 How to reach me:
+  - E-mail: <Saul-Mirone@outlook.com>
+  - twitter: [SaulMirone](https://twitter.com/SaulMirone)
+
+![Karlatemp's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Mirone&layout=compact&theme=tokyonight)](https://github.com/Saul-Mirone)
