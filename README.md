@@ -23,6 +23,6 @@ Do you known me? I'm a software engineer.
   - E-mail: <Saul-Mirone@outlook.com>
   - twitter: [SaulMirone](https://twitter.com/SaulMirone)
 
-![Karlatemp's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=tokyonight)
+![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Mirone&layout=compact&theme=tokyonight)](https://github.com/Saul-Mirone)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Mirone&layout=compact&theme=default)](https://github.com/Saul-Mirone)
