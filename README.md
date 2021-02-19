@@ -25,4 +25,4 @@ Do you known me? I'm a software engineer.
 
 ![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Mirone&layout=compact&theme=default)](https://github.com/Saul-Mirone)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Mirone&layout=compact&theme=default&exclude_repo=saul-mirone.github.io,Saul-Mirone)](https://github.com/Saul-Mirone)
