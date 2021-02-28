@@ -19,7 +19,7 @@ Do you known me? I'm a software engineer.
 ![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=default)
 
 - 🔭 I’m currently working on [Homura RSS Reader](https://github.com/Saul-Mirone/homura)
-- 🌱 I’m currently learning [ReScript](https://rescript-lang.org/) and [RxJs](https://rxjs.dev/)
+- 🌱 I’m currently learning [ReScript](https://rescript-lang.org/), [RxJs](https://rxjs.dev/) and [ProseMirror](https://prosemirror.net/)
 - 💬 Ask me about [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [TypeScript](https://www.typescriptlang.org/)
 - 📫 How to reach me:
   - E-mail: <Saul-Mirone@outlook.com>
