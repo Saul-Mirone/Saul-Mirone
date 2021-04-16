@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello, here is Mirone!
 
-Do you known me? I'm a software engineer.
+Do you know me? I'm a software engineer.
 
 ![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=default)
 
