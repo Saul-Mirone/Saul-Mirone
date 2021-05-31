@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Do you know me? I'm a software engineer.
 
-![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=default)
+![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=nord)
 
 - 🔭 I’m currently working on [Homura RSS Reader](https://github.com/Saul-Mirone/homura) and [Milkdown Editor](https://github.com/Saul-Mirone/milkdown)
 - 🌱 I’m currently learning [ReScript](https://rescript-lang.org/), [RxJs](https://rxjs.dev/) and [ProseMirror](https://prosemirror.net/)
@@ -25,4 +25,4 @@ Do you know me? I'm a software engineer.
   - E-mail: <Saul-Mirone@outlook.com>
   - twitter: [SaulMirone](https://twitter.com/SaulMirone)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Mirone&layout=compact&theme=default&exclude_repo=saul-mirone.github.io,Saul-Mirone)](https://github.com/Saul-Mirone)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Mirone&layout=compact&theme=nord&exclude_repo=saul-mirone.github.io,Saul-Mirone)](https://github.com/Saul-Mirone)
