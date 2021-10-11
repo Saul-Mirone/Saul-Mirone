@@ -8,6 +8,9 @@ Do you know me? I'm a software engineer.
 - 📫 How to reach me:
   - E-mail: <Saul-Mirone@outlook.com>
   - twitter: [SaulMirone](https://twitter.com/SaulMirone)
+- 💖 How to support me:
+  - Github Sponsor: https://github.com/sponsors/Saul-Mirone
+  - Afdian: https://afdian.net/@mirone
 
 ---
 
