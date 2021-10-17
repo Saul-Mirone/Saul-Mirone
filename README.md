@@ -6,8 +6,8 @@ Do you know me? I'm a software engineer.
 ![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=nord)
 
 - 📫 How to reach me:
-  - E-mail: <Saul-Mirone@outlook.com>
-  - Twitter: [SaulMirone](https://twitter.com/SaulMirone)
+  - 📧E-mail: <Saul-Mirone@outlook.com>
+  - 🐦Twitter: [SaulMirone](https://twitter.com/SaulMirone)
 - 💖 How to support me:
   - [Github Sponsor](https://github.com/sponsors/Saul-Mirone)
   - [Afdian](https://afdian.net/@mirone)
