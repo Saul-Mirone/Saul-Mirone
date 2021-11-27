@@ -1,4 +1,4 @@
-# :wave:Hi, Here is Mirone!
+# :wave: Hi, Here is Mirone!
 
 Do you know me? I'm a software engineer.
 
