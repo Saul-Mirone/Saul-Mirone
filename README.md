@@ -8,7 +8,7 @@ I'm working on [milkdown](https://github.com/Saul-Mirone/milkdown) and [vite-plu
 
 - 📫 How to reach me:
   - 📧E-mail: <Saul-Mirone@outlook.com>
-  - 🐦Twitter: [SaulMirone](https://twitter.com/SaulMirone)
+  - 🐦Twitter: [Mirone](https://twitter.com/SaulMirone)
 - 💖 How to support me:
   - [Github Sponsor](https://github.com/sponsors/Saul-Mirone)
   - [Afdian](https://afdian.net/@mirone)
