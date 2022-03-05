@@ -2,7 +2,7 @@
 
 Do you know me? I'm a software engineer.
 I'm working on [milkdown](https://github.com/Saul-Mirone/milkdown) and [vite-plugin-book](https://github.com/Saul-Mirone/vite-plugin-book) now!
-Learning c++ and WASM these days...🐈‍⬛
+Learning C++ and WASM these days...🐈‍⬛
 
 
 ![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=buefy)
