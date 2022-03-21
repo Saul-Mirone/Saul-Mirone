@@ -18,7 +18,7 @@ Learning C++ and WASM these days.
 
 ---
 
-Little things I made:
+Little things made by me:
 
 <a title="Milkdown" href="https://github.com/Saul-Mirone/milkdown">
   <kbd>
