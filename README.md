@@ -6,7 +6,7 @@ I'm working on [milkdown](https://github.com/Saul-Mirone/milkdown) and [vite-plu
 Learning C++ and WASM these days.
 
 
-![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=buefy)
+![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=nord)
 
 - 📫 How to reach me:
   - 📧E-mail: <Saul-Mirone@outlook.com>
