@@ -1,6 +1,6 @@
 # :wave: Hi, Here is Mirone!
 
-> Taking vacation this week to deal with some family issues. Will be back next monday.
+> Taking vacation this week to deal with some family issues. I'll be back next monday.
 
 Do you know me? I'm a software engineer.
 I'm working on [milkdown](https://github.com/Saul-Mirone/milkdown) and [vite-plugin-book](https://github.com/Saul-Mirone/vite-plugin-book) now!
