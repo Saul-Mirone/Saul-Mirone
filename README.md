@@ -30,8 +30,3 @@ Little things made by me:
     <img src="https://github.com/Saul-Mirone/homura/blob/main/assets/homura-logo.png" width="100" height="100" alt="homura">
   </kbd>
 </a>
-
----
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Mirone&layout=compact&theme=nord&exclude_repo=saul-mirone.github.io,Saul-Mirone)](https://github.com/Saul-Mirone)
