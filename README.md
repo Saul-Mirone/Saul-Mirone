@@ -1,6 +1,6 @@
 # :wave: Hi, Here is Mirone!
 
-Do you know me? I'm a software engineer.
+I'm a software engineer.
 I'm working on [milkdown](https://github.com/Saul-Mirone/milkdown) now!
 
 Learning C++ and WASM these days.
