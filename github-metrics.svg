@@ -15,19 +15,19 @@
                 </h2>
                 <div class="fill-width">
                     <section class="sponsors goal">
-                        <div class="markdown">Reaching this goal will help me to develop and maintain software.</div>
+                        <div class="markdown">☁️ Help me cover my time, efforts and domains costs</div>
                         <div class="center horizontal-wrap ">
                             <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="440" height="8">
                                 <mask id="project-bar">
                                     <rect x="0" y="0" width="440" height="8" fill="white" rx="5"/>
                                 </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="26.4" height="8" fill="#ec6cb9"/>
-                                <rect mask="url(#project-bar)" x="26.4" y="0" width="413.59999999999997" height="8" fill="#d1d5da"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="114.4" height="8" fill="#ec6cb9"/>
+                                <rect mask="url(#project-bar)" x="114.4" y="0" width="325.6" height="8" fill="#d1d5da"/>
                             </svg>
                         </div>
                         <div class="goal-text">
                             <span>4 sponsors are funding Saul-Mirone's work</span>
-                            <span>$2,000 per month</span>
+                            <span>$500 per month</span>
                         </div>
                         <div class="row">
                             <img class="avatar organization" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAACQElEQVR4Ac3BX0tTYRzA8e/5eTxDN5vTUkpdzZpOU0hoaMFITO3fSCI0uzCTSIrCm15FVxHVjUFvILqICiQhEgqkf5RQEBFEIIpkaGrM0p5QKGztbOfILp7PxzBqowqNCJoRNCNoRtCMoBlBM4JmBM0ImhHWKbwnQtuFOMXBTWSTsA5ltUG6L/ex9+Q+eq6cxcqzyBbBJcMwOHzpGCLCCn9pgFhvK9kiuNQQj7Klupy1mrpiFJUX84fqr0Ndb0btLMItwQWP10NL/yGSmZZJU1eMFWp3CcRDECyAgV0oU3BDcCF2aj/egI9ky0vLvLg7ijIN6Kvlr81e6AjhhuBQoKyYxs4YqTy785Spj5NwtBIqCvhHZxhV6MEpwaH2i3FMyyTZ/Nc5Rm4NowIeOFHFf/JzoTeCU4IDldEwkVgdqTwaHGJxIQGnayDPJKWWClR1IU4IGUiOcGCgg1QmPozz+sFzVE0AmsuxZRjQX48yyEjIoLErRkmolGRKKR5eu8cvAc7Vg2GQVrgQDm4lEyGNgo0baO5rI5V3j8f49OojxLdByI8jPRGU3yIdIY3W80ew8j0k+5n4wfCN+yi/Bd3VOOazoCdCOoINb8BHfXsDqYzefsLs5Awc3wHeXFxpDaIqfNgRbCx+TzA//Y1UvnyeYpXXxDUDyDexY2JjaXGJwTNX2R6twsgR1pqbmmXVzbcwNg25gmMTCxjvZ7Bjksb89Bxvhl5ix0gsw8g42SRoRtCMoBlBM4JmBM0ImhE0I2jmNx4ggC/yWGj/AAAAAElFTkSuQmCC" width="24" height="24" alt="" />
