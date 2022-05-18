@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="290" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="329" class="">
     <defs>
         <style/>
     </defs>
@@ -50,15 +50,8 @@
                 <div class="row fill-width">
                     <section class="sponsors">
                         <div class="markdown">
-                            <p>Little things I made:</p>
-                            <ul>
-                                <li>
-                                    <a href="https://github.com/Saul-Mirone/milkdown">Milkdown</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/Saul-Mirone/homura">Homura</a>
-                                </li>
-                            </ul>
+                            <p>I build softwares helpful and open-source.</p>
+                            <p>I'm the author of <a href="https://github.com/Saul-Mirone/milkdown">🍼Milkdown</a>. The project targets to let everyone can use markdown editor in any platform, website or app, without pain. People won't be blocked by the terrifying grammer or be ruled by those <em>super apps such as medium or notion</em>. <strong>It's a markdown editor framework for freedom.</strong></p>
                         </div>
                     </section>
                 </div>
