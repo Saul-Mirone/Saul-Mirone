@@ -22,7 +22,7 @@ Little things made by me:
 
 <a title="Milkdown" href="https://github.com/Saul-Mirone/milkdown">
   <kbd>
-    <img src="https://github.com/Saul-Mirone/milkdown/blob/main/gh-pages/public/milkdown-rect.svg" width="100" height="100" alt="milkdown">
+    <img src="https://github.com/Saul-Mirone/milkdown/blob/main/website/public/milkdown-rect.svg" width="100" height="100" alt="milkdown">
   </kdb>
 </a>
 <a title="Homura" href="https://github.com/Saul-Mirone/homura">
