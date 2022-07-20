@@ -4,8 +4,6 @@ I'm a software engineer working for [microsoft](https://github.com/microsoft).
 
 I'm working on [milkdown:baby_bottle:](https://github.com/Saul-Mirone/milkdown) now!
 
-Learning C++ and WASM these days.
-
 ![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=nord)
 
 - 📫 How to reach me:
