@@ -2,7 +2,7 @@
 
 I'm a software engineer working for [microsoft](https://github.com/microsoft).
 
-I'm working on [milkdown:baby_bottle:](https://github.com/Saul-Mirone/milkdown) now!
+I'm working on [milkdown:baby_bottle:](https://github.com/Saul-Mirone/milkdown) now.
 
 ![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=nord)
 
