@@ -14,8 +14,6 @@ I'm working on [milkdown:baby_bottle:](https://github.com/Saul-Mirone/milkdown) 
   - [Afdian](https://afdian.net/@mirone)
   - [Open Collective](https://opencollective.com/milkdown)
 
----
-
 Little things made by me:
 
 <a title="Milkdown" href="https://github.com/Saul-Mirone/milkdown">
