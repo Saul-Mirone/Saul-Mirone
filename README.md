@@ -1,7 +1,5 @@
 # :wave: Hi, here is Mirone!
 
-> I'm on vacation so won't respond this week.
-
 I'm a software engineer working for [microsoft](https://github.com/microsoft).
 
 I'm working on [milkdown:baby_bottle:](https://github.com/Saul-Mirone/milkdown) now.
