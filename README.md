@@ -1,6 +1,6 @@
 # :wave: Hi, here is Mirone!
 
-I'm a software engineer working for [microsoft](https://github.com/microsoft).
+I'm a software engineer.
 
 I'm working on [milkdown:baby_bottle:](https://github.com/Saul-Mirone/milkdown) now.
 
