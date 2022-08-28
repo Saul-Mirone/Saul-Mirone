@@ -11,8 +11,6 @@ I'm working on [milkdown:baby_bottle:](https://github.com/Saul-Mirone/milkdown) 
   - 🐦Twitter: [Mirone](https://twitter.com/SaulMirone)
 - 💖 How to support me:
   - [Github Sponsor](https://github.com/sponsors/Saul-Mirone)
-  - [Afdian](https://afdian.net/@mirone)
-  - [Open Collective](https://opencollective.com/milkdown)
 
 Little things made by me:
 
