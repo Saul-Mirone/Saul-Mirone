@@ -10,7 +10,7 @@ I'm working on [:baby_bottle:milkdown](https://github.com/Saul-Mirone/milkdown) 
 - 💖 How to support me:
   - [Github Sponsor](https://github.com/sponsors/Saul-Mirone)
 
-Little things I made:
+Little things made by me:
 
 <a title="Milkdown" href="https://github.com/Saul-Mirone/milkdown">
   <kbd>
