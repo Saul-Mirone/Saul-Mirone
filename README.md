@@ -14,13 +14,21 @@ I'm working on [:baby_bottle:milkdown](https://github.com/Saul-Mirone/milkdown) 
 
 Little things made by me:
 
-<a title="Milkdown" href="https://github.com/Saul-Mirone/milkdown">
-  <kbd>
-    <img src="https://github.com/Saul-Mirone/milkdown/blob/main/website/public/milkdown-rect.svg" width="100" height="100" alt="milkdown">
-  </kdb>
-</a>
-<a title="Homura" href="https://github.com/Saul-Mirone/homura">
-  <kbd>
-    <img src="https://github.com/Saul-Mirone/homura/blob/main/assets/homura-logo.png" width="100" height="100" alt="homura">
-  </kbd>
-</a>
+<table>
+  <tr>
+    <th>Milkdown</th>
+    <th>Homura</th>
+  </tr>
+  <tr>
+    <td>
+      <a title="Milkdown" href="https://github.com/Saul-Mirone/milkdown">
+        <img src="https://github.com/Saul-Mirone/milkdown/blob/main/website/public/milkdown-rect.svg" width="100" height="100" alt="milkdown">
+      </a>
+    </td>
+    <td>
+      <a title="Homura" href="https://github.com/Saul-Mirone/homura">
+        <img src="https://github.com/Saul-Mirone/homura/blob/main/assets/homura-logo.png" width="100" height="100" alt="homura">
+      </a>
+    </td>
+  </tr>
+</table>
