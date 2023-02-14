@@ -2,10 +2,6 @@
 
 I'm working on new major version of [:baby_bottle:milkdown](https://github.com/Saul-Mirone/milkdown) now.
 
-> Available for hiring! Feel free to contact me if you're interested.
-
-![Mirone's github stats](https://github-readme-stats.vercel.app/api?username=Saul-Mirone&show_icons=true&theme=nord)
-
 - 📫 How to reach me:
   - 📧E-mail: <Saul-Mirone@outlook.com>
   - 🐦Twitter: [Mirone](https://twitter.com/SaulMirone)
