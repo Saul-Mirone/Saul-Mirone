@@ -22,8 +22,8 @@ Little things made by me:
   </tr>
   <tr>
     <td align="center">
-      <a title="Milkdown" href="https://github.com/Saul-Mirone/milkdown">
-        <img src="https://github.com/Saul-Mirone/milkdown/blob/main/website/public/milkdown-logo.svg" width="100" height="100" alt="milkdown">
+      <a title="Milkdown" href="https://github.com/Milkdown/milkdown">
+        <img src="https://github.com/Milkdown/milkdown/blob/main/assets/logo.svg" width="100" height="100" alt="milkdown">
       </a>
     </td>
     <td align="center">
