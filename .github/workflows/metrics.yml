@@ -31,6 +31,7 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           plugin_sponsors: yes
+          plugin_sponsors_title: ''
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24
