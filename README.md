@@ -8,8 +8,8 @@ Little things made by me:
   <tr>
     <th width="150">Milkdown</th>
     <th width="150">PMAdapter</th>
-    <th width="150">Homura</th>
     <th width="150">VPB</th>
+    <th width="150">Homura</th>
   </tr>
   <tr>
     <td align="center">
