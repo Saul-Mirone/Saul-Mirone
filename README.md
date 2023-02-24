@@ -7,8 +7,9 @@ Little things made by me:
 <table>
   <tr>
     <th width="150">Milkdown</th>
-    <th width="150">ProseAdapter</th>
+    <th width="150">PMAdapter</th>
     <th width="150">Homura</th>
+    <th width="150">VPB</th>
   </tr>
   <tr>
     <td align="center">
@@ -18,7 +19,12 @@ Little things made by me:
     </td>
     <td align="center">
       <a title="Prosemirror Adapter" href="https://github.com/Saul-Mirone/prosemirror-adapter">
-        <img src="https://raw.githubusercontent.com/Saul-Mirone/prosemirror-adapter/main/assets/logo.svg" width="100" height="100" alt="homura">
+        <img src="https://raw.githubusercontent.com/Saul-Mirone/prosemirror-adapter/main/assets/logo.svg" width="100" height="100" alt="PMAdapter">
+      </a>
+    </td>
+    <td align="center">
+      <a title="Vite Plugin Book" href="https://github.com/Saul-Mirone/vite-plugin-book">
+        <img src="https://github.com/Saul-Mirone/vite-plugin-book/blob/main/gh-pages/public/icon.png" width="100" height="100" alt="VPB">
       </a>
     </td>
     <td align="center">
