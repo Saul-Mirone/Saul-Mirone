@@ -8,8 +8,6 @@ Little things made by me:
   <tr>
     <th width="150">Milkdown</th>
     <th width="150">PMAdapter</th>
-    <th width="150">VPB</th>
-    <th width="150">Homura</th>
   </tr>
   <tr>
     <td align="center">
@@ -22,6 +20,12 @@ Little things made by me:
         <img src="https://raw.githubusercontent.com/Saul-Mirone/prosemirror-adapter/main/assets/logo.svg" width="100" height="100" alt="PMAdapter">
       </a>
     </td>
+  </tr>
+  <tr>
+    <th width="150">VPB</th>
+    <th width="150">Homura</th>
+  </tr>
+  <tr>
     <td align="center">
       <a title="Vite Plugin Book" href="https://github.com/Saul-Mirone/vite-plugin-book">
         <img src="https://github.com/Saul-Mirone/vite-plugin-book/blob/main/gh-pages/public/icon.png" width="100" height="100" alt="VPB">
