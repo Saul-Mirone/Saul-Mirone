@@ -1,6 +1,4 @@
-# :wave: Hi, here is Mirone!
-
-I'm working on new major version of [:baby_bottle:milkdown](https://github.com/Saul-Mirone/milkdown) now.
+# 🌈 Hi, here is Mirone!
 
 Little things made by me:
 
