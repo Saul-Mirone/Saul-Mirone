@@ -40,6 +40,7 @@ Little things made by me:
 📫 How to reach me:
   - 📧E-mail: <Saul-Mirone@outlook.com>
   - 🐦Twitter: [Mirone](https://twitter.com/SaulMirone)
+  - Ⓜ️Mastodon: [Mirone](https://mas.to/@mironesaul)
 
 💖 How to support me:
 
