@@ -23,15 +23,12 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: sponsors.*
+          filename: sponsors.svg
 
           # Options
           user: Saul-Mirone
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
           plugin_sponsors: yes
-          plugin_sponsors_title: ''
+          plugin_sponsors_title: 'Thanks'
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list
           plugin_sponsors_size: 24
