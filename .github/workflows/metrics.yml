@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@3.32
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -26,7 +26,7 @@ jobs:
           filename: sponsors.svg
 
           # Options
-          user: Saul-Mirone
+          base: ""
           plugin_sponsors: yes
           plugin_sponsors_title: 'Thanks'
           plugin_sponsors_past: yes
