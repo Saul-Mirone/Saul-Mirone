@@ -41,3 +41,7 @@ Little things made by me:
   - 📧E-mail: <Saul-Mirone@outlook.com>
   - 🐦Twitter: [Mirone](https://twitter.com/SaulMirone)
   - Ⓜ️Mastodon: [Mirone](https://mas.to/@mironesaul)
+
+<a href="https://github.com/sponsors/Saul-Mirone">
+  <img src="https://github.com/Saul-Mirone/Saul-Mirone/blob/main/sponsors.svg">
+</a>
