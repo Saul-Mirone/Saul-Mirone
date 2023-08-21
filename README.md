@@ -41,7 +41,3 @@ Little things made by me:
   - 📧E-mail: <Saul-Mirone@outlook.com>
   - 🐦Twitter: [Mirone](https://twitter.com/SaulMirone)
   - Ⓜ️Mastodon: [Mirone](https://mas.to/@mironesaul)
-
-💖 How to support me:
-
-<!-- sponsors --><a href="https://github.com/ocavue"><img src="https://github.com/ocavue.png" width="60px" alt="" /></a><!-- sponsors -->
