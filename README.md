@@ -44,6 +44,4 @@ Little things made by me:
 
 💖 How to support me:
 
-<a href="https://github.com/sponsors/Saul-Mirone">
-  <img src="https://github.com/Saul-Mirone/Saul-Mirone/blob/main/sponsors.svg">
-</a>
+<!-- sponsors --><!-- sponsors -->
