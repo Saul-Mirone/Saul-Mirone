@@ -1,3 +1,8 @@
-import { defineConfig } from 'sponsorkit'
+import { defineConfig } from "sponsorkit";
 
-export default defineConfig({})
+export default defineConfig({
+  github: {
+    login: "Saul-Mirone",
+    type: "user",
+  },
+});
