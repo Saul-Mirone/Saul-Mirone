@@ -1,8 +1,9 @@
 {
     "scripts": {
-      "build": "sh build.sh"
+        "build": "sh build.sh"
     },
     "devDependencies": {
-      "sponsorkit": "^0.8.5"
-    }
-  }
+        "sponsorkit": "^16.4.2"
+    },
+    "packageManager": "pnpm@9.15.4"
+}

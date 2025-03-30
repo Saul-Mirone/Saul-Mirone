@@ -11,17 +11,21 @@ jobs:
   update-sponsors:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Set node
-        uses: actions/setup-node@v3
+      - uses: pnpm/action-setup@v4.1.0
         with:
-          node-version: lts/*
+          run_install: false
 
-      - run: npx pnpm i
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+          registry-url: 'https://registry.npmjs.org'
+
+      - run: pnpm i
 
       - name: Update sponsors
-        run: npm run build
+        run: pnpm run build
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: ${{ secrets.METRICS_TOKEN }}
