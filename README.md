@@ -42,6 +42,10 @@ Little things made by me:
   - 🐦Twitter: [Mirone](https://twitter.com/mirone_saul)
   - Ⓜ️Mastodon: [Mirone](https://mas.to/@mironesaul)
 
+🪩 Open for:
+  - Prosemirror/Milkdown consulting
+  - Prosemirror/Milkdown contracts
+
 <a href="https://github.com/sponsors/Saul-Mirone">
   <img src="https://github.com/Saul-Mirone/Saul-Mirone/blob/main/sponsors.svg">
 </a>
