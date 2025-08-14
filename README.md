@@ -20,13 +20,13 @@ Little things made by me:
     </td>
   </tr>
   <tr>
-    <th width="150">VPB</th>
+    <th width="150">AFFiNE</th>
     <th width="150">Homura</th>
   </tr>
   <tr>
     <td align="center">
-      <a title="Vite Plugin Book" href="https://github.com/Saul-Mirone/vite-plugin-book">
-        <img src="https://github.com/Saul-Mirone/vite-plugin-book/blob/main/gh-pages/public/icon.png" width="100" height="100" alt="VPB">
+      <a title="AFFiNE" href="https://github.com/toeverything/AFFiNE">
+        <img src="https://affine.pro/_nuxt/stable.DXA-0ALj.png" width="100" height="100" alt="VPB">
       </a>
     </td>
     <td align="center">
